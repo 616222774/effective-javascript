@@ -9,7 +9,7 @@ gl = 'it is not good';
 function func() {
     // 隐藏的全局变量
     inner = 'inner';
-    // 显式的生命局部变量
+    // 显式的声明局部变量
     var gg = 'inner gg';
 }
 
